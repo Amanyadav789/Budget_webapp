@@ -14,3 +14,4 @@ Responsive Design: Ensures usability across different devices and screen sizes.
 
 HTML: Provides the structure and basic layout.
 CSS: Styles the application for a visually appealing user interface.
+JavaScript: Implements the interactive features and calculations.
